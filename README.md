@@ -1,2 +1,0 @@
-# Javascript
-Start Javascript Language!
