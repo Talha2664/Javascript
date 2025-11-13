@@ -1,3 +1,6 @@
+// User enter a number and check its a multiple of 5 or not
+
+
 let num = prompt("Enter a Number");
 
 if (num % 5 == 0){
