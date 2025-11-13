@@ -1,4 +1,5 @@
-// ***************** Primitive datatypes ****************
+//  ***************** Primitive datatypes ****************
+//➤ All primitive types in JavaScript are immutable
 
 let name = "Talha";      // String
 let age = 21;            // Number
@@ -8,7 +9,8 @@ let score = null;        // Null
 let id = Symbol("id");   // Symbol
 let bigNumber = 9999999999999999n; // BigInt
 
-// Non - Primitive datatypes
+// ****************** Non - Primitive datatypes *********************
+// ➤ All non-primitive types (objects, arrays, functions) are mutable
 
 let person = {name: "Talha", age: 21 };   // Object
 let numbers = [10, 20, 30, 40];            // Array

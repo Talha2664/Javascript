@@ -23,7 +23,7 @@ do {
 } while (i <= 5);
 
 
-// 4. for...in Loop
+// 4. for...in Loop                 // used in object and array
 
 let student = {name: "Talha", age: 23, cgpa: 8.0};
 
@@ -32,7 +32,7 @@ for (let key in student) {
 }
 
 
-// for...of Loop
+// for...of Loop                    // used in string and array
 
 let colors = ["red", "green", "blue"];
 
