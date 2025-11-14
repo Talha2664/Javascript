@@ -88,7 +88,9 @@ numbersArray.reverse();
 console.log(numbersArray); // [5, 4, 3, 2, 1]
 
 // 8. forEach()
-
+// ForEach is a higher order function or method.
+// Higher order functions are that which takes another function as a parameter
+ 
 let countries = ["USA", "UK", "India"];
 countries.forEach(country => console.log(country));
 
