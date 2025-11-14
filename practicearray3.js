@@ -21,3 +21,11 @@ for(let i = 0; i<marks.length; i++){
 }
 Average = sum/marks.length
 console.log(Average)
+
+// find the square of array numbers using forEach Loop
+
+
+let arr2 = [2,4,6,8]
+arr2.forEach((val)=>{
+    console.log(val*val)
+})
