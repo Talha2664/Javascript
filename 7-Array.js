@@ -87,3 +87,9 @@ let numbersArray = [1, 2, 3, 4, 5];
 numbersArray.reverse();
 console.log(numbersArray); // [5, 4, 3, 2, 1]
 
+// 8. forEach()
+
+let countries = ["USA", "UK", "India"];
+countries.forEach(country => console.log(country));
+
+
