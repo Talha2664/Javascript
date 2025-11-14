@@ -1,3 +1,6 @@
+
+// callback function
+
 function func(num1,num2,operation){
     console.log(operation(num1,num2))
 }

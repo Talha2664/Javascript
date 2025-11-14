@@ -1,1 +1,2 @@
-My all day to day Javascript Learning Files
+# Javascript
+My all day to day Javascript Learning journey
