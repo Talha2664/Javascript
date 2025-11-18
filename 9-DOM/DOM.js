@@ -127,6 +127,12 @@ console.log(Img.getAttribute("src"))
 let Img1 = document.getElementById("img1")
 console.log(Img1.setAttribute("src","https://www.google.com/"))
 
+// in this we only get or set the value of existing class if i make a new class in CSS
+// and append them in the element which has also a class then we use classList
+
+document.querySelector(".box").classList.add("newClass")
+
+
 // Till now we learn how we change something in existing elements
 // Now we learn how we create new element in javascript
 
