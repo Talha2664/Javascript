@@ -14,4 +14,4 @@ class Car extends Vehicle {
 }
 
 let obj = new Car();
-obj.start()   // here the child class method runs
+obj.start()   // here the child class method
