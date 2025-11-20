@@ -57,13 +57,13 @@ let numbersArray = [1, 2, 3, 4, 5];
 numbersArray.reverse();
 console.log(numbersArray); // [5, 4, 3, 2, 1]
 
-// 8. forEach()
+// 8. forEach()  => only work for arrays
 // ForEach is a higher order function or method.
 // Higher order functions are that which takes another function as a parameter
 
-let countries = ["USA", "UK", "India"];
-countries.forEach((country) =>{
-    console.log(country)
+let countries = ["USA", "UK", "PAK"];
+countries.forEach((val,idx,array) =>{
+    console.log(val,idx,array)
 });
 
 

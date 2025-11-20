@@ -21,7 +21,7 @@ let fruits3 = ["Apple", "Banana", "Mango"];
 
 // 1. Using for loop
 for(let i = 0; i < fruits3.length; i++) {
-    console.log(fruits3[i]);
+    console.log(fruits3[i].toUpperCase());
 }
 
 // 2. Using for...of loop

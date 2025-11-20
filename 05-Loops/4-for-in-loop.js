@@ -1,5 +1,4 @@
-// 4. for...in Loop                 // used in object and array
-
+// 4. for...in Loop                 // used in object 
 let student = {name: "Talha", age: 23, cgpa: 8.0};
 
 for (let key in student) {
