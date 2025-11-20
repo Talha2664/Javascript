@@ -18,3 +18,15 @@ function vowel(str){
 
 let res = vowel("hello");
 console.log(res); // ["e", "o"]
+
+
+
+// for the given array print square of each val using arrayeach
+
+let arr = [2,4,6,8]
+
+let square = (val) => {
+    console.log(val*val);
+}
+
+arr.forEach(square);
