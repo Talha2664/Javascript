@@ -1,3 +1,4 @@
+// using shallow and deep copy we make Arrays,Objects,Nested objects new copy
 // create object
 
 let student ={
